@@ -1,11 +1,8 @@
-import * as React from 'react';
-import Smap from 'Screens/Maps/SMap'
-import { Text } from '~/components/ui/text';
+import React from 'react';
 
-export default function Screen() {
 
+export default function Index() {
   return (
-    <><Smap></Smap></>
-    
+    <></>
   );
 }
